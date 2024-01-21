@@ -12,6 +12,7 @@ Mentioned users' username is replaced with @user.
 
 Used dataset of Twitter Sentiment Analysis imported from Kaggle with 3 columns intrain dataset id, tweet, label
 Test dataset has 2 columns id and tweet
+https://www.kaggle.com/datasets/arkhoshghalb/twitter-sentiment-analysis-hatred-speech
 
 Steps:
 1) convert tweets in lowercase
